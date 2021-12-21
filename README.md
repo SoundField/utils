@@ -1,6 +1,10 @@
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![license](https://img.shields.io/npm/l/debug)](https://github.com/SoundField/utils/LICENSE)
 # 一些实用绘图代码和程序软件
 
-参考格式：
+目录和内容格式：  
+```
+>[坚果云](##坚果云)  
 ## 坚果云
 **软件（代码）用途：**  
 多平台同步软件，效率高，开源免费。  
@@ -10,22 +14,25 @@ yay -S nutstore
 **注意事项：**  
 yay -S python-gobject#如果出现坚果云打不开或者没有登录页面的情况，安装坚果云相关依赖
 Linux出现客户端白屏已经解决了，但是需要等AUR更新。
-
+```
 # 目录
 [Matlab绘图](#Matlab)  
+>[声场伪彩图](##伪彩图)  
 
 [Windows软件](#Windows)  
-  [TeamViews](##TeamsViews)  
+>[TeamViews](##TeamsViews)  
+
 [Latex软件](#Latex)  
-  [坚果云](##坚果云)  
+>[坚果云](##坚果云)  
 
 # Matlab
 
+## 伪彩图
+**软件（代码）用途：**  
+绘制伪彩图  
+**使用方法：**    
 
-
-
-
-
+**注意事项：**   
 
 
 
@@ -54,3 +61,9 @@ yay -S nutstore
 **注意事项：**  
 yay -S python-gobject#如果出现坚果云打不开或者没有登录页面的情况，安装坚果云相关依赖
 Linux出现客户端白屏已经解决了，但是需要等AUR更新。
+
+
+
+## License
+
+[MIT © SoundField.](../LICENSE)
