@@ -16,16 +16,17 @@ yay -S python-gobject#如果出现坚果云打不开或者没有登录页面的�
 Linux出现客户端白屏已经解决了，但是需要等AUR更新。
 ```
 
-**代码**
-1. [Matlab绘图](#Matlab)  
->1.1[声场伪彩图](##伪彩图)    
->1.2[宽带ramgeo](##宽带ramgeo)  
-**软件**
-2. [Windows软件](#Windows)  
->2.1[TeamViews](##TeamsViews)   
+**代码**  
+1.Matlab绘图  
+>1.1[声场伪彩图](#伪彩图)    
+>1.2[宽带ramgeo](#宽带ramgeo)  
+    
+**软件**  
+2.Windows软件 
+>2.1[TeamViews](#TeamsViews)   
 
-3. [Latex软件](#Latex)  
->3.[坚果云](##坚果云)  
+3.Latex软件  
+>3.[坚果云](#坚果云)  
  
 ---
 **Codes**
@@ -55,7 +56,7 @@ ramgeo的宽带改写版本
 貌似只能使用频率间隔1.  
 
 ---
-**Softwares ** 
+**Softwares **  
 常用软件，需要标注使用平台  
 ## TeamViews  
 **软件（代码）用途：**   
