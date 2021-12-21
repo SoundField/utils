@@ -1,0 +1,10 @@
+本版本是工作加非均匀网格和PML之前的版本。
+
+基础程序为rams1.5 by Collins 	【ur w】算子、mapping
+王猛添加	single-scatting
+
+一般选择dr = 1/6 波长
+dz = dr*1/10
+如果不收敛，可以尝试减小 np，把irot改为1的同时增加theta角度
+并尝试调整网格大小。
+

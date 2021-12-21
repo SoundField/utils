@@ -1,0 +1,5 @@
+基础程序为rams1.5 by Collins 	
+【ur w】算子、mapping、single-scatting
+非均匀网格和完美匹配层
+
+非均匀网格手动设，一般在海底上一点到第二层海底下一点。
