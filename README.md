@@ -15,9 +15,9 @@ Linux出现客户端白屏已经解决了，但是需要等AUR更新。
 [Matlab绘图](#Matlab)  
 
 [Windows软件](#Windows)  
-[TeamViews](##TeamsViews)  
+  [TeamViews](##TeamsViews)  
 [Latex软件](#Latex)  
-[坚果云](##坚果云)  
+  [坚果云](##坚果云)  
 
 # Matlab
 
